@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-- 🔭 I'm currently working on a react-native app to connect to a robot<br>- 🌱 I'm currently learning web and app development as well as embedded C <br> - ⚡ Fun fact, I recently picked on on skiing
+ 🔭 I'm currently working on a react-native app to connect to a robot<br>- 🌱 I'm currently learning web and app development as well as embedded C <br> - ⚡ Fun fact, I recently picked on on skiing
 
 
 ## 🌐 Socials:
